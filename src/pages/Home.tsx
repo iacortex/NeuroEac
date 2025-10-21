@@ -1,9 +1,11 @@
 import CardService from "@/components/CardService";
+import ContactSection from '@/components/ContactSection';
 import Slider from "@/components/Slider";
 import BlurText from "@/components/TitlesStyles";
 import { HStack, Separator, Text } from "@chakra-ui/react";
 import { Handshake, HeartIcon } from "lucide-react";
 import { motion } from "motion/react"
+
 
 export default function Home() {
 
